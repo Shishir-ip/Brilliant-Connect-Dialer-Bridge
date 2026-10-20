@@ -6,7 +6,7 @@ Integrate the Brilliant Connect VoIP app directly into your default Android dial
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.x-7F52FF?logo=kotlin&logoColor=white)
 ![UI](https://img.shields.io/badge/UI-Jetpack%20Compose%20%7C%20Material%203-4285F4?logo=jetpackcompose&logoColor=white)
 ![Build](https://img.shields.io/badge/Build-Personal%20Sideload-orange)
-![License](https://img.shields.io/badge/License-TODO-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
 
@@ -16,6 +16,8 @@ Integrate the Brilliant Connect VoIP app directly into your default Android dial
 > This app uses Android's AccessibilityService API solely on your local device to automate UI interactions (pressing the dialer button and selecting the "Brilliant-OUT" option) inside the separately installed Brilliant Connect app.  
 > **Brilliant-OUT calls connect to cellular or PSTN telephone networks and are paid calls that consume your Brilliant Connect credit balance.**  
 > Use this software at your own risk. It is intended strictly for personal sideload use.
+>
+> The license applies to this project's source code only. It does not grant any rights to Brilliant Connect or its trademarks, and this project is not affiliated with InterCloud Limited.
 
 ---
 
@@ -354,8 +356,7 @@ Contributions, bug reports, and suggestions are welcome!
 
 ## License
 
-<!-- TODO: add license text or choose license (e.g. MIT, Apache 2.0, or GPL-3.0) -->
-This project is currently distributed as an open-source personal utility. See the repository license file for full terms.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
@@ -363,3 +364,9 @@ This project is currently distributed as an open-source personal utility. See th
 
 - **Brilliant Connect by InterCloud Limited, Bangladesh:** For providing low-cost VoIP communication services.
 - **Android Open Source Project (AOSP):** For the Android Telecom and Accessibility frameworks.
+
+---
+
+## Author
+
+Shohidul Islam Shishir (https://github.com/Shishir-ip)
