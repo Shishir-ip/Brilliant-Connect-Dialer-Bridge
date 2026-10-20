@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Brilliant Dialer Bridge</string>
+    <string name="phone_account_label">Brilliant Connect</string>
+    <string name="accessibility_service_description">Automates dialing and Brilliant-OUT selection for calls placed through Brilliant Connect via the dialer bridge.</string>
+    <string name="accessibility_service_label">Brilliant Dialer Auto-Select</string>
+    <string name="channel_handoff_name">Call Handoff</string>
+    <string name="channel_handoff_desc">Notifications for launching Brilliant Connect calls</string>
+    <string name="channel_alerts_name">Dialer Bridge Alerts</string>
+    <string name="channel_alerts_desc">Alerts and status messages for call routing</string>
+</resources>

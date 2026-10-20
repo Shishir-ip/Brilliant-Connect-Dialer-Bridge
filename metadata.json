@@ -1,0 +1,6 @@
+{
+  "name": "Brilliant Dialer Bridge",
+  "description": "Bridges Brilliant Connect to the Android dialer with automated call and Brilliant-OUT selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
